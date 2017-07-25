@@ -3,4 +3,20 @@
   .navbar ul li a {
     color: white; }
 
+.redondas {
+  background-color: #E8D5AE; }
+  .redondas img {
+    width: 90%;
+    border: 8px solid #E2C97D;
+    margin-top: -30%; }
+  .redondas button {
+    background-color: #E2C97D;
+    margin-bottom: 40px; }
+  .redondas h4 {
+    margin-top: 30px;
+    margin-bottom: 30px; }
+  .redondas p {
+    margin-top: 30px;
+    margin-bottom: 30px; }
+
 /*# sourceMappingURL=main.css.map */
